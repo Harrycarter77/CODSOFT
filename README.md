@@ -12,6 +12,6 @@ Permission to use this software must be obtained from the author. For permission
 
 For inquiries regarding the license or usage of this software, please contact:
 
-Author: Harsh Vyas (Harrycarter77)  
+Author: [Harsh Vyas (Harrycarter77)]  
 Email: [harshvyas927@gmail.com]  
 LinkedIn: [www.linkedin.com/in/harsh-v-9816471a5]
